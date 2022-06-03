@@ -1,2 +1,1 @@
-# Dhera_rep
-Repository for my django project;Dhera
+<h1> Thank you </h1>
